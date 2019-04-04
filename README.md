@@ -1,4 +1,4 @@
-# web_crawler
+# web_scriping
 
 <h3>Description</h3>
 This program would first get and cache data about the key word, “fish” from the New York Times and the Guardian. Then the program will access data from these two sources with data about articles and create two lists of instances, including the article title, author, published date, word count, source, subject/section, and the most common letter in the article. Lastly, a CSV file with instances as column and data from each article as row will be created.
